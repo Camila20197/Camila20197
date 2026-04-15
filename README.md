@@ -21,7 +21,7 @@ Currently seeking: Internship opportunities in Data Analytics / Data Science to 
 | **[Customer Churn Predictive Model](https://github.com/Camila20197/S11-25-Equipo-70-DataScience)** | Predictive model for customer churn using EDA and ML for proactive retention strategies. | `Python`, `Machine Learning` | [View Code](https://github.com/Camila20197/S11-25-Equipo-70-DataScience) |
 | **[Futura Ganadera (Livestock ML)](https://github.com/Camila20197/Futura-Ganadera-Data-Science-III)** | ML application for the livestock sector: predicting optimal buying/selling moments and profitable destinations. | `Python`, `Machine Learning` | [View Code](https://github.com/Camila20197/Futura-Ganadera-Data-Science-III) |
 | **[HealthTech BI](https://github.com/Camila20197/S02-26-Equipo-63-BI)** | Analysis of surgical robotics adoption in LATAM. Data processing and modeling for business intelligence. | `SQL Server`, `Power BI`, `Python` | [View Code](https://github.com/Camila20197/S02-26-Equipo-63-BI) |
-
+| **[Numismatic Analytics]([https://github.com/Camila20197/S02-26-Equipo-63-BI](https://github.com/Camila20197/numismatic-analysis-de-zoomcamp-project)** | An automated, end-to-end Data Engineering (ELT) pipeline that scrapes, processes, and models the collectible banknote market to visualize historical pricing trends. | `Data Engineering`, `Google Cloud`, `Python` | [View Code](https://github.com/Camila20197/numismatic-analysis-de-zoomcamp-project) |
 
 ### 📫 Let's Connect
 Interested in talking about data, opportunities, or projects? Feel free to reach out!
